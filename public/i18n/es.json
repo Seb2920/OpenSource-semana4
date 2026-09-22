@@ -1,0 +1,12 @@
+{
+
+  "home": {
+    "title": "Bienvenido",
+    "content": "Bienvenido a la página de inicio"
+  },
+
+  "about": {
+    "title": "Acerca de",
+    "content": "Esta es la página de Acerca de"
+  }
+}
